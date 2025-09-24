@@ -20,7 +20,7 @@ let App=()=>{
       <section className="pricing" id="pricing">
         <h2 className="text-[26px] font-bold">Pricing Plans</h2>
         <p className="text-[20px] font-bold mb-5">Find The Perfect Plan For You</p>
-        <div className="grid">
+        <div className="gri">
           <div className="card highlight">
             <h3>Basic</h3>
             <p className="price">$49 / month</p>
@@ -87,7 +87,7 @@ let App=()=>{
       </section>
 
       <Questions></Questions>
-      
+
       <section>
         <h2 className="text-[20px] font-bold">Ready to Improve Your Business with an AI Chatbot?</h2>
         <button className="btn primary big">Watch Video</button>
