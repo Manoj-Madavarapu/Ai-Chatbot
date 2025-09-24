@@ -20,27 +20,27 @@ section {
   text-align: center;
 }
 
-.grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
+.gri{
+  display: flex !important;
+  flex-wrap: wrap !important;
+  justify-content: center !important;
   gap: 20px;
 }
-.grid .step {
+.gri .step {
   /* background: white; */
   padding: 20px;
   /* border-radius: 8px; */
   max-width: 400px;
   text-align: center;
-  
+
 }
-.grid .step img{
+.gri .step img{
   width: 400px;
   height: 330px;
   box-shadow: 5px 5px 10px rgba(0,0,0,0.1);
   border-radius: 8px;
 }
-.grid .step h3{
+.gri .step h3{
   font-size: 18px;
   font-weight: bold;
   margin-top: 15px;
@@ -150,7 +150,7 @@ section {
   border: 2px solid #137fec;
   /* transform: scale(1.05); */
 }
-.pricing  .grid :hover{
+.pricing  .gri :hover{
    /* border: 2px solid #137fec; */
 } 
 #why-choose-us{

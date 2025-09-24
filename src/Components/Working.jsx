@@ -5,7 +5,7 @@ const Working = () => {
     <div>
       <section className="how" id="how-it-works">
         <h2 className='text-[26px] font-bold '>How Our Advanced AI Chatbot Works</h2>
-        <div className="grid flex-wrap flex">
+        <div className="gri flex-wrap flex">
           <div className="step">
             <img src="https://lh3.googleusercontent.com/aida-public/AB6AXuC7dwyUJCbEU0PjdoPj9kLJXa6ZAg0ueRd-OH-rUJyJo0I_nhmbYfUfScSkL43ZMyxLxvzOD-tqw2lEx3c6oQUVhb_LDQ_Qs5bsW_GmBY5X9qGiZGa1LPj2yoW5Rfo3ItADqowh-TVT8djg50VaZLGFQxbiS7L1fwxe5K5q6Q3AdJQzaNSznNHp_WOO6kRrog5DojWt0nDgHr6yMo9-eDJvnRv7Ls9lLKkqKydmAo06ezYI3uMwLroa1GCnfGr8gM92x_1YVWVR0Q4n"></img>
             <h3>Provide Business Information</h3>
