@@ -5,7 +5,7 @@ const ChooseUs = () => {
     <div>
       <section className="why " id="why-choose-us">
         <h2 className='text-[26px] font-bold'>Why Choose Us</h2>
-        <p className='text-[20px] font-bold -mt-2 mb-5'>Seamless Solutions For Your Growing Business</p>
+        <p className='text-[20px] font-bold  mb-5'>Seamless Solutions For Your Growing Business</p>
         <ul className='flex gap-10 justify-center flex-wrap'>
           <li>
             <strong>Fast and Efficient</strong><br /> Instant responses, multiple
@@ -68,7 +68,7 @@ const ChooseUs = () => {
        {/* Testimonials */}
       <section className="testimonials" id="testimonials">
         <h2 className="text-[26px] font-bold">Testimonials</h2>
-        <p className="text-[20px]">Loved By Businesses Worldwide</p>
+        <p className="text-[20px] mb-4">Loved By Businesses Worldwide</p>
         <div className="flex flex-col gap-2 justify-center items-center">
           <div className="reviews ">
             <h2>Forterra Developers (Real Estate)</h2>
@@ -94,7 +94,7 @@ const ChooseUs = () => {
           </div>
         </div>
       </section>
-      
+
     </div>
   )
 }
