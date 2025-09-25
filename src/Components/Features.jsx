@@ -4,7 +4,7 @@ let Features=()=>{
         <>
       <section className="features" id="features">
         <h2 className="text-[26px] font-bold ">Key Features</h2>
-        <h2 className="text-[20px] font-bold -mt-2 mb-5">AI that simplifies every customer interaction.</h2>
+        <h2 className="text-[20px] font-bold  mb-5">AI that simplifies every customer interaction.</h2>
         <div className="gri">
           <div className="card">
             <i className="fa-solid fa-comment"></i>
